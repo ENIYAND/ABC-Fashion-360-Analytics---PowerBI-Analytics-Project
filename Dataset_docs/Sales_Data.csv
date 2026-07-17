@@ -1,0 +1,351 @@
+﻿Invoice No,Invoice Date,Region,Distributor,Product,Size,Qty,Unit Price,Net Amount,Order Status
+INV261002,22-05-2026,Kasaragod,Malabar Distributors,NovaFit Bra,L,12,840,10161,Pending
+INV261003,17-06-2026,Wayanad,Western Agencies,Urban Bloom Top,L,11,214,2373,Delivered
+INV261004,25-05-2026,Ernakulam,Western Agencies,Magic Fit,L,16,709,12070,Delivered
+INV261005,06-06-2026,Kottayam,Malabar Distributors,Smart Bottom,XL,20,219,4170,Delivered
+INV261006,23-01-2026,Kasaragod,Kerala Garments,Cotton Bliss,S,34,199,6820,Delivered
+INV261007,20-04-2026,Kottayam,Kerala Garments,Cotton Bliss,M,33,369,11593,Delivered
+INV261008,24-02-2026,Alappuzha,Malabar Distributors,Smart Bottom,L,38,213,7705,Delivered
+INV261009,10-02-2026,Alappuzha,Malabar Distributors,Luna Curve Bra,L,15,261,4166,Delivered
+INV261010,06-03-2026,Kottayam,Malabar Distributors,Lily Hipster,XL,6,469,2679,Delivered
+INV261011,08-03-2026,Malappuram,Malabar Distributors,DreamSoft,XL,17,378,6118,Delivered
+INV261012,05-02-2026,Kottayam,Kerala Garments,Cotton Bliss,XL,28,262,8216,Delivered
+INV261013,27-01-2026,Thiruvananthapuram,Malabar Distributors,Magic Fit,XL,39,971,42413,Delivered
+INV261014,28-05-2026,Thiruvananthapuram,Trend Retail,Smart Bottom,XL,11,652,8033,Delivered
+INV261015,04-02-2026,Thrissur,Western Agencies,Urban Bloom Top,M,5,799,4251,Delivered
+INV261016,29-05-2026,Kasaragod,Malabar Distributors,Urban Bloom Top,XL,12,757,9157,Pending
+INV261017,17-04-2026,Thiruvananthapuram,Trend Retail,Magic Fit,XL,9,321,3074,Delivered
+INV261018,10-02-2026,Kozhikode,Kerala Garments,Cotton Bliss,XL,27,960,29030,Pending
+INV261019,13-02-2026,Ernakulam,Trend Retail,Urban Bloom Top,XL,38,683,27615,Delivered
+INV261020,07-01-2026,Alappuzha,Kerala Garments,Lily Hipster,L,23,750,16422,Pending
+INV261021,17-04-2026,Ernakulam,Trend Retail,Magic Fit,M,6,537,3067,Delivered
+INV261022,23-03-2026,Kollam,Kerala Garments,BellaFlex,L,17,580,10491,Delivered
+INV261023,19-04-2026,Kasaragod,Trend Retail,Magic Fit,L,26,269,7833,Delivered
+INV261024,29-04-2026,Kollam,Trend Retail,Urban Bloom Top,XL,11,739,7739,Delivered
+INV261025,02-05-2026,Wayanad,Trend Retail,Urban Bloom Top,M,6,204,1302,Pending
+INV261026,11-03-2026,Kottayam,Western Agencies,NovaFit Bra,XL,27,957,26046,Delivered
+INV261027,12-05-2026,Kollam,Trend Retail,Lily Hipster,L,6,414,2782,Delivered
+INV261028,14-05-2026,Kannur,Malabar Distributors,Luna Curve Bra,L,9,526,4507,Delivered
+INV261029,09-05-2026,Kozhikode,Trend Retail,Elite Curve,L,32,774,23579,Pending
+INV261030,27-01-2026,Ernakulam,Kerala Garments,BellaFlex,XL,40,325,12376,Delivered
+INV261031,10-02-2026,Thrissur,Trend Retail,Smart Bottom,XL,11,910,9530,Delivered
+INV261032,08-03-2026,Kollam,Kerala Garments,Lily Hipster,L,25,875,20825,Delivered
+INV261033,15-04-2026,Kollam,Western Agencies,Luna Curve Bra,XL,6,991,5661,Pending
+INV261034,03-06-2026,Pathanamthitta,Malabar Distributors,BellaFlex,M,7,978,7668,Delivered
+INV261035,10-04-2026,Pathanamthitta,Kerala Garments,Urban Bloom Top,M,19,835,15103,Pending
+INV261036,13-02-2026,Pathanamthitta,Malabar Distributors,Lily Hipster,XL,7,448,3512,Delivered
+INV261037,10-01-2026,Kasaragod,Kerala Garments,Magic Fit,L,12,445,5084,Delivered
+INV261038,10-05-2026,Idukki,Malabar Distributors,Luna Curve Bra,XL,28,910,27111,Delivered
+INV261039,27-04-2026,Kannur,Malabar Distributors,Smart Bottom,L,14,648,10161,Delivered
+INV261040,02-03-2026,Kozhikode,Malabar Distributors,Magic Fit,L,24,968,23418,Delivered
+INV261041,14-05-2026,Thiruvananthapuram,Kerala Garments,DreamSoft,M,22,554,13651,Delivered
+INV261042,14-01-2026,Thiruvananthapuram,Western Agencies,DreamSoft,XL,6,263,1502,Pending
+INV261043,26-03-2026,Kannur,Western Agencies,Urban Bloom Top,XL,20,557,10605,Delivered
+INV261044,20-03-2026,Idukki,Malabar Distributors,BellaFlex,XL,35,206,6864,Delivered
+INV261045,07-06-2026,Malappuram,Malabar Distributors,BellaFlex,M,40,309,11767,Delivered
+INV261046,19-01-2026,Palakkad,Malabar Distributors,Magic Fit,XL,35,304,11321,Pending
+INV261047,23-03-2026,Pathanamthitta,Kerala Garments,Cotton Bliss,M,34,948,32490,Pending
+INV261048,06-01-2026,Idukki,Trend Retail,NovaFit Bra,S,7,565,3987,Delivered
+INV261049,17-05-2026,Kannur,Malabar Distributors,Urban Bloom Top,L,26,384,9505,Delivered
+INV261050,03-02-2026,Kasaragod,Western Agencies,Elite Curve,L,40,288,11612,Delivered
+INV261051,09-06-2026,Thrissur,Trend Retail,Smart Bottom,L,18,738,12646,Delivered
+INV261052,26-04-2026,Malappuram,Western Agencies,Urban Bloom Top,L,26,249,6163,Delivered
+INV261053,07-05-2026,Wayanad,Kerala Garments,Smart Bottom,S,34,730,23629,Delivered
+INV261054,14-05-2026,Kozhikode,Kerala Garments,Luna Curve Bra,L,30,966,27589,Pending
+INV261055,04-04-2026,Thiruvananthapuram,Trend Retail,Smart Bottom,L,5,297,1497,Delivered
+INV261056,05-03-2026,Kottayam,Western Agencies,Cotton Bliss,M,17,722,13060,Delivered
+INV261057,21-02-2026,Pathanamthitta,Kerala Garments,NovaFit Bra,XL,17,962,15569,Delivered
+INV261058,24-04-2026,Pathanamthitta,Western Agencies,Luna Curve Bra,S,7,680,5065,Delivered
+INV261059,09-02-2026,Kozhikode,Malabar Distributors,Luna Curve Bra,XL,20,921,17536,Delivered
+INV261060,24-05-2026,Thiruvananthapuram,Kerala Garments,NovaFit Bra,L,14,756,11261,Delivered
+INV261061,25-05-2026,Kasaragod,Malabar Distributors,Urban Bloom Top,L,6,827,4724,Delivered
+INV261062,21-03-2026,Thiruvananthapuram,Trend Retail,Elite Curve,XL,38,213,8612,Pending
+INV261063,10-05-2026,Palakkad,Western Agencies,Luna Curve Bra,L,38,506,20459,Delivered
+INV261064,13-04-2026,Pathanamthitta,Western Agencies,Magic Fit,L,39,408,17821,Delivered
+INV261065,22-06-2026,Wayanad,Kerala Garments,Luna Curve Bra,S,30,747,22589,Delivered
+INV261066,19-02-2026,Thiruvananthapuram,Malabar Distributors,Smart Bottom,XL,5,799,4474,Delivered
+INV261067,04-06-2026,Kollam,Malabar Distributors,Lily Hipster,XL,12,446,5695,Delivered
+INV261068,02-04-2026,Malappuram,Malabar Distributors,BellaFlex,XL,40,611,24636,Delivered
+INV261069,11-05-2026,Kollam,Kerala Garments,Elite Curve,L,28,934,27826,Delivered
+INV261070,20-04-2026,Ernakulam,Trend Retail,Lily Hipster,L,30,522,15785,Delivered
+INV261071,24-06-2026,Kottayam,Malabar Distributors,NovaFit Bra,XL,20,854,17217,Delivered
+INV261072,16-06-2026,Ernakulam,Kerala Garments,NovaFit Bra,S,9,712,6818,Delivered
+INV261073,04-04-2026,Thrissur,Western Agencies,Smart Bottom,S,5,617,2937,Delivered
+INV261074,01-03-2026,Kottayam,Trend Retail,Cotton Bliss,M,40,933,39708,Delivered
+INV261075,12-02-2026,Pathanamthitta,Malabar Distributors,Luna Curve Bra,XL,21,483,10224,Delivered
+INV261076,22-01-2026,Alappuzha,Malabar Distributors,Lily Hipster,S,12,563,7567,Pending
+INV261077,07-05-2026,Pathanamthitta,Trend Retail,Magic Fit,XL,15,846,12081,Delivered
+INV261078,19-04-2026,Alappuzha,Trend Retail,NovaFit Bra,M,9,550,5267,Delivered
+INV261079,14-05-2026,Kannur,Trend Retail,NovaFit Bra,M,23,316,7733,Pending
+INV261080,24-03-2026,Kozhikode,Malabar Distributors,Elite Curve,L,20,272,5484,Delivered
+INV261081,10-03-2026,Alappuzha,Western Agencies,Smart Bottom,L,31,959,29967,Pending
+INV261082,26-03-2026,Idukki,Kerala Garments,DreamSoft,M,29,360,11693,Delivered
+INV261083,27-06-2026,Ernakulam,Malabar Distributors,DreamSoft,M,21,243,5430,Pending
+INV261084,30-05-2026,Thiruvananthapuram,Trend Retail,Elite Curve,L,9,595,5398,Pending
+INV261085,28-05-2026,Ernakulam,Western Agencies,Elite Curve,M,17,940,17898,Delivered
+INV261086,22-06-2026,Thiruvananthapuram,Malabar Distributors,Urban Bloom Top,M,15,916,15389,Delivered
+INV261087,18-01-2026,Kasaragod,Malabar Distributors,Urban Bloom Top,XL,28,589,15700,Delivered
+INV261088,17-02-2026,Alappuzha,Malabar Distributors,Smart Bottom,XL,32,529,17063,Delivered
+INV261089,21-02-2026,Palakkad,Kerala Garments,DreamSoft,XL,6,740,4973,Delivered
+INV261090,12-02-2026,Idukki,Western Agencies,BellaFlex,M,10,496,5277,Pending
+INV261091,19-04-2026,Kottayam,Malabar Distributors,Smart Bottom,M,5,794,4224,Delivered
+INV261092,23-06-2026,Malappuram,Western Agencies,Elite Curve,XL,17,360,6512,Pending
+INV261093,21-02-2026,Kottayam,Trend Retail,Magic Fit,L,17,759,13006,Delivered
+INV261094,10-03-2026,Idukki,Trend Retail,Magic Fit,M,22,956,21200,Delivered
+INV261095,12-02-2026,Palakkad,Western Agencies,Smart Bottom,L,16,930,15832,Delivered
+INV261096,11-04-2026,Kottayam,Trend Retail,Elite Curve,XL,30,636,21370,Delivered
+INV261097,19-04-2026,Kollam,Western Agencies,Urban Bloom Top,L,22,408,9550,Delivered
+INV261098,02-01-2026,Alappuzha,Malabar Distributors,Lily Hipster,L,26,821,21517,Delivered
+INV261099,29-03-2026,Kasaragod,Malabar Distributors,Elite Curve,M,40,227,9661,Delivered
+INV261100,23-03-2026,Kozhikode,Trend Retail,Elite Curve,M,32,833,29855,Delivered
+INV261101,27-05-2026,Kozhikode,Western Agencies,Cotton Bliss,M,37,345,13582,Pending
+INV261102,24-03-2026,Idukki,Trend Retail,Elite Curve,L,18,712,12201,Delivered
+INV261103,28-06-2026,Alappuzha,Trend Retail,Lily Hipster,XL,26,706,18503,Delivered
+INV261104,20-02-2026,Kannur,Malabar Distributors,Elite Curve,XL,29,886,28777,Delivered
+INV261105,20-01-2026,Palakkad,Western Agencies,DreamSoft,L,24,675,18144,Delivered
+INV261106,19-02-2026,Pathanamthitta,Trend Retail,Magic Fit,L,18,742,13463,Delivered
+INV261107,17-04-2026,Idukki,Kerala Garments,NovaFit Bra,M,30,985,29786,Delivered
+INV261108,15-04-2026,Kannur,Trend Retail,DreamSoft,XL,36,693,26545,Delivered
+INV261109,12-03-2026,Thrissur,Trend Retail,BellaFlex,XL,27,541,13906,Delivered
+INV261110,21-04-2026,Malappuram,Trend Retail,BellaFlex,XL,11,772,9035,Delivered
+INV261111,30-03-2026,Kollam,Malabar Distributors,Cotton Bliss,M,22,625,15400,Delivered
+INV261112,10-01-2026,Palakkad,Malabar Distributors,Cotton Bliss,M,28,635,18918,Delivered
+INV261113,22-02-2026,Alappuzha,Western Agencies,Elite Curve,XL,32,768,27525,Delivered
+INV261114,16-01-2026,Wayanad,Malabar Distributors,Magic Fit,XL,36,496,18999,Delivered
+INV261115,25-04-2026,Kannur,Malabar Distributors,Lily Hipster,XL,21,923,18453,Pending
+INV261116,09-05-2026,Kasaragod,Western Agencies,BellaFlex,XL,12,731,9333,Delivered
+INV261117,18-04-2026,Alappuzha,Malabar Distributors,Urban Bloom Top,XL,12,377,5067,Delivered
+INV261118,25-06-2026,Kannur,Western Agencies,Lily Hipster,L,11,995,10420,Delivered
+INV261119,21-02-2026,Kollam,Trend Retail,Elite Curve,S,5,441,2470,Delivered
+INV261120,04-02-2026,Idukki,Trend Retail,Elite Curve,L,33,271,9015,Delivered
+INV261121,16-06-2026,Palakkad,Trend Retail,Urban Bloom Top,XL,29,712,23126,Delivered
+INV261122,03-06-2026,Kollam,Western Agencies,Smart Bottom,L,9,496,4250,Delivered
+INV261123,14-06-2026,Kottayam,Western Agencies,DreamSoft,L,26,838,20742,Pending
+INV261124,06-03-2026,Wayanad,Western Agencies,Urban Bloom Top,L,28,809,22833,Delivered
+INV261125,13-04-2026,Ernakulam,Trend Retail,Cotton Bliss,M,25,984,23419,Delivered
+INV261126,30-06-2026,Idukki,Kerala Garments,Smart Bottom,XL,39,272,10693,Delivered
+INV261127,27-01-2026,Kozhikode,Kerala Garments,Luna Curve Bra,M,28,580,16370,Delivered
+INV261128,07-04-2026,Kollam,Malabar Distributors,Luna Curve Bra,XL,5,466,2479,Delivered
+INV261129,13-01-2026,Palakkad,Western Agencies,Luna Curve Bra,XL,13,877,12769,Delivered
+INV261130,28-04-2026,Kottayam,Western Agencies,Urban Bloom Top,XL,13,468,6133,Delivered
+INV261131,03-03-2026,Wayanad,Kerala Garments,Urban Bloom Top,S,11,762,8918,Delivered
+INV261132,25-06-2026,Kottayam,Western Agencies,Urban Bloom Top,XL,16,517,9265,Pending
+INV261133,15-02-2026,Malappuram,Western Agencies,Urban Bloom Top,L,11,844,9358,Delivered
+INV261134,04-05-2026,Pathanamthitta,Trend Retail,Urban Bloom Top,M,14,750,10584,Delivered
+INV261135,03-03-2026,Idukki,Kerala Garments,Magic Fit,L,33,616,21629,Delivered
+INV261136,13-01-2026,Thiruvananthapuram,Malabar Distributors,Elite Curve,XL,28,227,7119,Delivered
+INV261137,25-04-2026,Kannur,Western Agencies,Luna Curve Bra,XL,34,534,17285,Delivered
+INV261138,03-03-2026,Malappuram,Western Agencies,Cotton Bliss,XL,30,387,11053,Delivered
+INV261139,02-02-2026,Thiruvananthapuram,Kerala Garments,Urban Bloom Top,XL,19,897,16225,Delivered
+INV261140,29-05-2026,Idukki,Western Agencies,DreamSoft,L,35,455,16944,Delivered
+INV261141,25-04-2026,Ernakulam,Western Agencies,Lily Hipster,XL,32,267,8134,Pending
+INV261142,12-01-2026,Kozhikode,Kerala Garments,DreamSoft,L,10,752,7159,Delivered
+INV261143,14-05-2026,Kollam,Kerala Garments,Lily Hipster,L,35,641,21358,Delivered
+INV261144,21-03-2026,Idukki,Kerala Garments,Smart Bottom,L,26,965,23886,Delivered
+INV261145,17-03-2026,Thiruvananthapuram,Trend Retail,Cotton Bliss,S,5,529,2518,Pending
+INV261146,31-05-2026,Wayanad,Western Agencies,BellaFlex,L,22,577,13506,Delivered
+INV261147,13-04-2026,Alappuzha,Western Agencies,Urban Bloom Top,XL,29,325,9500,Delivered
+INV261148,30-05-2026,Thiruvananthapuram,Kerala Garments,Elite Curve,S,34,574,21858,Delivered
+INV261149,08-04-2026,Wayanad,Trend Retail,DreamSoft,S,23,736,18959,Pending
+INV261150,10-03-2026,Idukki,Malabar Distributors,BellaFlex,M,30,960,27418,Pending
+INV261151,16-05-2026,Thiruvananthapuram,Kerala Garments,DreamSoft,XL,33,627,22015,Delivered
+INV261152,14-03-2026,Palakkad,Kerala Garments,Urban Bloom Top,M,36,698,25329,Delivered
+INV261153,24-02-2026,Kannur,Western Agencies,Lily Hipster,XL,23,850,19706,Delivered
+INV261154,15-02-2026,Malappuram,Kerala Garments,Elite Curve,XL,30,819,26142,Delivered
+INV261155,28-04-2026,Thiruvananthapuram,Kerala Garments,Smart Bottom,XL,15,911,13774,Delivered
+INV261156,27-06-2026,Kollam,Kerala Garments,DreamSoft,L,27,355,9662,Delivered
+INV261157,16-06-2026,Malappuram,Western Agencies,Lily Hipster,L,24,857,21884,Delivered
+INV261158,12-02-2026,Kannur,Malabar Distributors,DreamSoft,XL,22,206,4822,Delivered
+INV261159,09-01-2026,Kottayam,Trend Retail,Luna Curve Bra,XL,18,998,20120,Delivered
+INV261160,12-02-2026,Thiruvananthapuram,Kerala Garments,DreamSoft,S,13,941,13016,Delivered
+INV261161,25-05-2026,Malappuram,Kerala Garments,Elite Curve,XL,48,986,50357,Delivered
+INV261162,10-03-2026,Idukki,Western Agencies,Smart Bottom,M,14,556,7410,Delivered
+INV261163,31-03-2026,Idukki,Malabar Distributors,Smart Bottom,XL,13,972,14152,Delivered
+INV261164,15-03-2026,Ernakulam,Western Agencies,BellaFlex,XL,37,998,35154,Delivered
+INV261165,17-06-2026,Kozhikode,Western Agencies,Luna Curve Bra,XL,33,244,9018,Delivered
+INV261166,30-06-2026,Malappuram,Malabar Distributors,Cotton Bliss,M,13,285,3527,Pending
+INV261167,17-06-2026,Kasaragod,Kerala Garments,Magic Fit,XL,25,475,10640,Pending
+INV261168,18-05-2026,Kannur,Malabar Distributors,Cotton Bliss,S,30,441,14818,Delivered
+INV261169,12-01-2026,Kottayam,Malabar Distributors,Cotton Bliss,XL,23,831,20336,Delivered
+INV261170,24-02-2026,Malappuram,Trend Retail,Lily Hipster,L,20,879,17721,Delivered
+INV261171,31-01-2026,Wayanad,Trend Retail,Cotton Bliss,XL,12,662,8008,Delivered
+INV261172,27-04-2026,Wayanad,Western Agencies,Cotton Bliss,XL,26,900,26208,Delivered
+INV261173,03-01-2026,Wayanad,Trend Retail,Magic Fit,M,20,843,17939,Delivered
+INV261174,14-04-2026,Kottayam,Kerala Garments,Magic Fit,XL,22,941,19708,Delivered
+INV261175,03-01-2026,Kannur,Western Agencies,Lily Hipster,M,16,737,13207,Pending
+INV261176,20-05-2026,Kozhikode,Kerala Garments,Smart Bottom,XL,8,582,4693,Delivered
+INV261177,30-05-2026,Thiruvananthapuram,Western Agencies,Urban Bloom Top,M,23,276,6754,Delivered
+INV261178,19-05-2026,Kasaragod,Kerala Garments,Elite Curve,L,19,382,7316,Pending
+INV261179,03-04-2026,Idukki,Trend Retail,Cotton Bliss,M,27,227,6178,Delivered
+INV261180,19-06-2026,Pathanamthitta,Malabar Distributors,Magic Fit,L,45,431,21722,Delivered
+INV261181,01-02-2026,Kollam,Trend Retail,Elite Curve,XL,45,814,38974,Delivered
+INV261182,15-04-2026,Kollam,Malabar Distributors,Lily Hipster,XL,37,512,19096,Pending
+INV261183,13-01-2026,Thiruvananthapuram,Trend Retail,DreamSoft,XL,25,841,23548,Pending
+INV261184,13-01-2026,Kasaragod,Western Agencies,Lily Hipster,XL,23,590,12159,Delivered
+INV261185,17-06-2026,Pathanamthitta,Malabar Distributors,NovaFit Bra,L,47,331,13939,Pending
+INV261186,24-03-2026,Wayanad,Trend Retail,Cotton Bliss,M,31,645,19035,Delivered
+INV261187,05-05-2026,Kannur,Western Agencies,Lily Hipster,L,11,535,5603,Pending
+INV261188,21-04-2026,Alappuzha,Trend Retail,Urban Bloom Top,XL,4,926,3319,Delivered
+INV261189,26-05-2026,Idukki,Trend Retail,DreamSoft,S,39,981,40708,Delivered
+INV261190,24-04-2026,Palakkad,Malabar Distributors,BellaFlex,XL,47,292,13834,Pending
+INV261191,14-03-2026,Malappuram,Western Agencies,Urban Bloom Top,XL,36,383,13898,Pending
+INV261192,31-05-2026,Malappuram,Kerala Garments,Lily Hipster,XL,33,311,11495,Pending
+INV261193,12-04-2026,Ernakulam,Trend Retail,Smart Bottom,M,27,782,23648,Delivered
+INV261194,27-04-2026,Malappuram,Trend Retail,Cotton Bliss,S,3,698,1993,Delivered
+INV261195,10-03-2026,Thrissur,Kerala Garments,Cotton Bliss,M,11,598,6999,Delivered
+INV261196,01-01-2026,Kozhikode,Trend Retail,Smart Bottom,XL,22,767,17009,Delivered
+INV261197,05-04-2026,Kottayam,Western Agencies,Magic Fit,XL,21,424,9972,Pending
+INV261198,09-05-2026,Thrissur,Malabar Distributors,Magic Fit,XL,8,525,4234,Pending
+INV261199,11-01-2026,Kasaragod,Malabar Distributors,Lily Hipster,XL,33,445,13980,Delivered
+INV261200,23-05-2026,Pathanamthitta,Western Agencies,Elite Curve,XL,7,258,1820,Delivered
+INV261201,03-05-2026,Kollam,Trend Retail,NovaFit Bra,XL,14,311,4633,Pending
+INV261202,14-03-2026,Kasaragod,Malabar Distributors,Urban Bloom Top,XL,14,268,3992,Delivered
+INV261203,03-05-2026,Idukki,Malabar Distributors,Elite Curve,S,17,912,13892,Delivered
+INV261204,20-01-2026,Ernakulam,Western Agencies,Lily Hipster,XL,23,245,5680,Pending
+INV261205,13-05-2026,Kasaragod,Malabar Distributors,Urban Bloom Top,XL,36,839,30446,Delivered
+INV261206,28-03-2026,Kannur,Western Agencies,Cotton Bliss,XL,30,833,25190,Delivered
+INV261207,30-03-2026,Thrissur,Kerala Garments,DreamSoft,L,41,441,18226,Pending
+INV261208,24-05-2026,Kottayam,Kerala Garments,Magic Fit,L,15,742,9972,Pending
+INV261209,26-04-2026,Kottayam,Western Agencies,Luna Curve Bra,L,30,901,24219,Pending
+INV261210,03-02-2026,Idukki,Western Agencies,BellaFlex,XL,17,230,3722,Delivered
+INV261211,24-05-2026,Kollam,Malabar Distributors,Lily Hipster,XL,11,798,9831,Delivered
+INV261212,20-01-2026,Thiruvananthapuram,Kerala Garments,Elite Curve,XL,14,804,12607,Delivered
+INV261213,06-01-2026,Thiruvananthapuram,Western Agencies,Lily Hipster,L,15,925,13209,Delivered
+INV261214,11-04-2026,Pathanamthitta,Kerala Garments,Luna Curve Bra,M,26,464,13512,Delivered
+INV261215,27-04-2026,Pathanamthitta,Trend Retail,NovaFit Bra,L,21,693,13854,Delivered
+INV261216,12-04-2026,Pathanamthitta,Trend Retail,Urban Bloom Top,L,7,654,5127,Delivered
+INV261217,26-01-2026,Kottayam,Western Agencies,BellaFlex,L,17,404,7308,Delivered
+INV261218,16-05-2026,Pathanamthitta,Malabar Distributors,Urban Bloom Top,S,36,627,20225,Pending
+INV261219,28-05-2026,Thrissur,Malabar Distributors,BellaFlex,L,46,789,38617,Delivered
+INV261220,11-04-2026,Kozhikode,Western Agencies,Smart Bottom,XL,26,591,13768,Pending
+INV261221,07-04-2026,Kollam,Malabar Distributors,BellaFlex,L,35,403,12638,Delivered
+INV261222,24-03-2026,Pathanamthitta,Kerala Garments,NovaFit Bra,L,24,348,8887,Delivered
+INV261223,13-03-2026,Kozhikode,Malabar Distributors,Magic Fit,XL,25,764,21392,Delivered
+INV261224,12-03-2026,Alappuzha,Malabar Distributors,Cotton Bliss,XL,27,992,23998,Pending
+INV261225,05-06-2026,Kasaragod,Kerala Garments,Luna Curve Bra,XL,9,826,7493,Delivered
+INV261226,27-03-2026,Wayanad,Western Agencies,NovaFit Bra,L,3,664,2008,Pending
+INV261227,24-04-2026,Idukki,Trend Retail,Urban Bloom Top,XL,35,854,31803,Delivered
+INV261228,01-03-2026,Kasaragod,Western Agencies,BellaFlex,M,13,244,3375,Pending
+INV261229,23-02-2026,Alappuzha,Western Agencies,BellaFlex,XL,49,916,45243,Delivered
+INV261230,20-05-2026,Malappuram,Kerala Garments,BellaFlex,L,30,559,15965,Delivered
+INV261231,28-06-2026,Malappuram,Western Agencies,NovaFit Bra,XL,48,512,27525,Delivered
+INV261232,26-06-2026,Kannur,Trend Retail,Magic Fit,L,24,958,25751,Delivered
+INV261233,13-03-2026,Palakkad,Malabar Distributors,Urban Bloom Top,XL,4,357,1439,Delivered
+INV261234,06-06-2026,Idukki,Kerala Garments,NovaFit Bra,XL,42,593,23711,Delivered
+INV261235,08-06-2026,Kasaragod,Trend Retail,Smart Bottom,XL,4,631,2686,Delivered
+INV261236,11-04-2026,Kottayam,Western Agencies,Smart Bottom,M,34,483,16553,Delivered
+INV261237,06-01-2026,Kottayam,Kerala Garments,NovaFit Bra,XL,7,434,3232,Delivered
+INV261238,19-06-2026,Kottayam,Kerala Garments,Luna Curve Bra,XL,13,650,8044,Delivered
+INV261239,29-01-2026,Alappuzha,Malabar Distributors,NovaFit Bra,XL,31,783,27186,Delivered
+INV261240,02-06-2026,Kottayam,Western Agencies,Cotton Bliss,M,35,363,13518,Delivered
+INV261241,30-03-2026,Kasaragod,Trend Retail,Smart Bottom,XL,6,590,3767,Delivered
+INV261242,21-01-2026,Kasaragod,Trend Retail,DreamSoft,M,38,432,15628,Delivered
+INV261243,25-04-2026,Thrissur,Malabar Distributors,Lily Hipster,L,15,352,5618,Delivered
+INV261244,06-06-2026,Kasaragod,Western Agencies,Smart Bottom,XL,14,875,12348,Delivered
+INV261245,02-01-2026,Idukki,Kerala Garments,BellaFlex,XL,45,477,20435,Pending
+INV261246,18-02-2026,Thiruvananthapuram,Trend Retail,Smart Bottom,L,22,350,7762,Delivered
+INV261247,30-06-2026,Kollam,Malabar Distributors,Lily Hipster,L,25,698,17590,Delivered
+INV261248,17-04-2026,Pathanamthitta,Western Agencies,Elite Curve,S,36,458,16620,Delivered
+INV261249,24-02-2026,Alappuzha,Malabar Distributors,Elite Curve,L,7,549,3443,Pending
+INV261250,06-01-2026,Thrissur,Western Agencies,Luna Curve Bra,S,14,311,4389,Delivered
+INV261251,04-03-2026,Thrissur,Western Agencies,Smart Bottom,M,26,664,18369,Delivered
+INV261252,20-03-2026,Kannur,Western Agencies,DreamSoft,L,36,801,32296,Delivered
+INV261253,21-06-2026,Kozhikode,Malabar Distributors,Smart Bottom,XL,41,342,14919,Delivered
+INV261254,11-06-2026,Idukki,Kerala Garments,Urban Bloom Top,XL,23,781,20119,Delivered
+INV261255,05-06-2026,Kozhikode,Malabar Distributors,Luna Curve Bra,XL,39,204,7129,Delivered
+INV261256,15-03-2026,Malappuram,Kerala Garments,Smart Bottom,XL,42,548,21911,Delivered
+INV261257,07-05-2026,Thrissur,Trend Retail,NovaFit Bra,L,29,571,14837,Pending
+INV261258,17-04-2026,Idukki,Western Agencies,Cotton Bliss,XL,9,295,2528,Delivered
+INV261259,25-02-2026,Malappuram,Malabar Distributors,Luna Curve Bra,L,23,890,22926,Delivered
+INV261260,22-04-2026,Ernakulam,Kerala Garments,Smart Bottom,S,28,923,27498,Delivered
+INV261261,16-05-2026,Kozhikode,Malabar Distributors,Urban Bloom Top,XL,23,396,8671,Delivered
+INV261262,15-01-2026,Kasaragod,Trend Retail,Magic Fit,S,40,277,11169,Delivered
+INV261263,25-05-2026,Ernakulam,Malabar Distributors,Urban Bloom Top,L,42,568,21375,Pending
+INV261264,14-06-2026,Malappuram,Trend Retail,Cotton Bliss,XL,20,730,13899,Pending
+INV261265,18-06-2026,Kollam,Kerala Garments,Lily Hipster,L,20,382,8129,Delivered
+INV261266,14-06-2026,Thiruvananthapuram,Trend Retail,NovaFit Bra,XL,42,392,14752,Delivered
+INV261267,01-05-2026,Idukki,Trend Retail,Cotton Bliss,S,32,407,11670,Delivered
+INV261268,12-04-2026,Palakkad,Western Agencies,DreamSoft,M,8,297,2262,Pending
+INV261269,31-05-2026,Palakkad,Western Agencies,Elite Curve,XL,10,616,5864,Delivered
+INV261270,22-03-2026,Kollam,Malabar Distributors,Elite Curve,XL,39,298,13017,Delivered
+INV261271,01-06-2026,Kannur,Malabar Distributors,Smart Bottom,XL,24,942,21523,Pending
+INV261272,12-04-2026,Kollam,Western Agencies,BellaFlex,XL,30,602,19216,Delivered
+INV261273,12-06-2026,Thiruvananthapuram,Western Agencies,Luna Curve Bra,S,24,812,21827,Delivered
+INV261274,08-01-2026,Kollam,Trend Retail,Cotton Bliss,M,22,588,11591,Delivered
+INV261275,30-06-2026,Kottayam,Trend Retail,Cotton Bliss,M,6,868,5833,Pending
+INV261276,05-04-2026,Wayanad,Trend Retail,BellaFlex,XL,14,523,6561,Delivered
+INV261277,06-05-2026,Ernakulam,Western Agencies,NovaFit Bra,L,36,837,33748,Delivered
+INV261278,02-04-2026,Kollam,Kerala Garments,Lily Hipster,M,8,972,6967,Delivered
+INV261279,07-01-2026,Pathanamthitta,Kerala Garments,Urban Bloom Top,M,6,916,4924,Delivered
+INV261280,10-05-2026,Kannur,Kerala Garments,Luna Curve Bra,L,9,863,7829,Delivered
+INV261281,04-03-2026,Kannur,Malabar Distributors,Cotton Bliss,M,49,708,36912,Delivered
+INV261282,23-01-2026,Thrissur,Trend Retail,Cotton Bliss,M,48,400,18278,Pending
+INV261283,16-02-2026,Kozhikode,Malabar Distributors,Lily Hipster,XL,5,300,1512,Delivered
+INV261284,24-04-2026,Thrissur,Western Agencies,Lily Hipster,XL,9,665,5698,Delivered
+INV261285,21-01-2026,Thrissur,Western Agencies,Lily Hipster,XL,18,551,9442,Delivered
+INV261286,20-04-2026,Alappuzha,Kerala Garments,Luna Curve Bra,L,37,213,7061,Pending
+INV261287,10-04-2026,Wayanad,Malabar Distributors,NovaFit Bra,XL,43,339,13061,Delivered
+INV261288,11-02-2026,Thiruvananthapuram,Kerala Garments,Smart Bottom,M,26,346,10076,Delivered
+INV261289,02-06-2026,Kasaragod,Western Agencies,NovaFit Bra,M,45,922,41822,Delivered
+INV261290,05-02-2026,Wayanad,Trend Retail,NovaFit Bra,XL,6,657,4194,Delivered
+INV261291,07-03-2026,Kozhikode,Trend Retail,Smart Bottom,L,44,258,10807,Delivered
+INV261292,24-01-2026,Kasaragod,Kerala Garments,BellaFlex,XL,19,289,5842,Delivered
+INV261293,11-02-2026,Pathanamthitta,Western Agencies,DreamSoft,XL,9,538,5423,Delivered
+INV261294,09-06-2026,Malappuram,Kerala Garments,Lily Hipster,L,47,395,17674,Pending
+INV261295,10-02-2026,Kottayam,Malabar Distributors,NovaFit Bra,XL,19,210,4022,Delivered
+INV261296,01-01-2026,Alappuzha,Western Agencies,NovaFit Bra,XL,13,711,8799,Delivered
+INV261297,28-03-2026,Thrissur,Malabar Distributors,Magic Fit,S,8,368,2968,Delivered
+INV261298,12-06-2026,Palakkad,Western Agencies,BellaFlex,M,34,346,11858,Delivered
+INV261299,26-06-2026,Kottayam,Malabar Distributors,Magic Fit,XL,48,553,28243,Pending
+INV261300,11-02-2026,Kollam,Western Agencies,BellaFlex,L,42,906,40487,Delivered
+INV261301,26-03-2026,Kannur,Trend Retail,Luna Curve Bra,L,23,281,6877,Delivered
+INV261302,07-06-2026,Kollam,Western Agencies,Cotton Bliss,S,25,352,7885,Delivered
+INV261303,23-06-2026,Wayanad,Kerala Garments,Luna Curve Bra,L,26,378,10457,Delivered
+INV261304,27-06-2026,Alappuzha,Trend Retail,Smart Bottom,S,5,951,5326,Delivered
+INV261305,09-06-2026,Ernakulam,Kerala Garments,Urban Bloom Top,S,8,868,7000,Delivered
+INV261306,02-02-2026,Kannur,Malabar Distributors,Urban Bloom Top,S,36,221,8465,Delivered
+INV261307,20-05-2026,Pathanamthitta,Malabar Distributors,BellaFlex,L,9,412,3945,Delivered
+INV261308,08-02-2026,Idukki,Trend Retail,Smart Bottom,S,48,398,18187,Delivered
+INV261309,18-01-2026,Palakkad,Western Agencies,Magic Fit,XL,7,452,3189,Pending
+INV261310,17-01-2026,Wayanad,Malabar Distributors,Cotton Bliss,S,44,832,36901,Delivered
+INV261311,15-04-2026,Kozhikode,Western Agencies,Lily Hipster,XL,8,687,5232,Delivered
+INV261312,11-03-2026,Kozhikode,Western Agencies,Lily Hipster,L,19,898,19109,Pending
+INV261313,21-06-2026,Thiruvananthapuram,Kerala Garments,Elite Curve,S,19,705,15002,Delivered
+INV261314,18-05-2026,Wayanad,Western Agencies,Magic Fit,S,40,982,39594,Delivered
+INV261315,31-05-2026,Alappuzha,Kerala Garments,Magic Fit,S,40,900,36288,Delivered
+INV261316,05-04-2026,Kottayam,Malabar Distributors,DreamSoft,L,50,340,16184,Pending
+INV261317,24-02-2026,Alappuzha,Trend Retail,BellaFlex,XL,40,742,33242,Pending
+INV261318,08-02-2026,Thiruvananthapuram,Kerala Garments,Luna Curve Bra,L,6,642,4099,Delivered
+INV261319,19-06-2026,Ernakulam,Trend Retail,Urban Bloom Top,XL,29,546,17734,Delivered
+INV261320,18-04-2026,Kollam,Western Agencies,Smart Bottom,XL,13,420,4892,Delivered
+INV261321,18-06-2026,Malappuram,Trend Retail,Elite Curve,L,9,616,5588,Pending
+INV261322,20-01-2026,Thiruvananthapuram,Kerala Garments,Elite Curve,S,33,322,11306,Delivered
+INV261323,06-02-2026,Pathanamthitta,Malabar Distributors,BellaFlex,M,18,530,8548,Delivered
+INV261324,18-06-2026,Pathanamthitta,Kerala Garments,Urban Bloom Top,XL,41,598,23341,Pending
+INV261325,18-04-2026,Thiruvananthapuram,Malabar Distributors,Luna Curve Bra,XL,41,506,23236,Pending
+INV261326,25-04-2026,Ernakulam,Malabar Distributors,Urban Bloom Top,L,15,968,15449,Delivered
+INV261327,22-04-2026,Kannur,Malabar Distributors,Luna Curve Bra,L,12,438,5887,Delivered
+INV261328,23-05-2026,Thiruvananthapuram,Kerala Garments,Cotton Bliss,M,22,335,7016,Delivered
+INV261329,11-01-2026,Malappuram,Malabar Distributors,Magic Fit,XL,9,927,8877,Delivered
+INV261330,19-05-2026,Kottayam,Malabar Distributors,Luna Curve Bra,XL,13,893,11052,Delivered
+INV261331,17-01-2026,Palakkad,Malabar Distributors,Luna Curve Bra,L,17,785,11957,Delivered
+INV261332,20-06-2026,Alappuzha,Trend Retail,Urban Bloom Top,L,30,822,26238,Delivered
+INV261333,12-04-2026,Thiruvananthapuram,Trend Retail,Elite Curve,XL,19,279,5640,Delivered
+INV261334,27-06-2026,Kollam,Kerala Garments,Lily Hipster,L,10,954,8548,Delivered
+INV261335,09-05-2026,Kozhikode,Western Agencies,Lily Hipster,S,44,616,28839,Pending
+INV261336,14-06-2026,Thiruvananthapuram,Malabar Distributors,Lily Hipster,M,17,215,3480,Pending
+INV261337,20-01-2026,Wayanad,Malabar Distributors,DreamSoft,XL,42,350,16464,Delivered
+INV261338,19-04-2026,Kasaragod,Western Agencies,Smart Bottom,XL,25,495,11088,Delivered
+INV261339,12-06-2026,Malappuram,Western Agencies,NovaFit Bra,M,4,687,2924,Delivered
+INV261340,20-06-2026,Kozhikode,Western Agencies,DreamSoft,XL,39,515,17996,Delivered
+INV261341,24-06-2026,Wayanad,Malabar Distributors,DreamSoft,M,46,856,39691,Delivered
+INV261342,22-03-2026,Palakkad,Western Agencies,Magic Fit,XL,9,378,3048,Delivered
+INV261343,21-05-2026,Thiruvananthapuram,Western Agencies,Magic Fit,XL,31,595,16527,Delivered
+INV261344,06-01-2026,Kasaragod,Trend Retail,Lily Hipster,XL,4,410,1469,Delivered
+INV261345,28-04-2026,Kannur,Malabar Distributors,Luna Curve Bra,M,25,527,14018,Delivered
+INV261346,11-06-2026,Thiruvananthapuram,Malabar Distributors,Lily Hipster,L,49,270,13336,Delivered
+INV261347,03-05-2026,Thiruvananthapuram,Western Agencies,Urban Bloom Top,XL,28,297,9314,Delivered
+INV261348,26-06-2026,Wayanad,Trend Retail,Urban Bloom Top,XL,48,772,37352,Pending
+INV261349,03-04-2026,Kasaragod,Western Agencies,Cotton Bliss,M,24,441,10669,Delivered
+INV261350,07-01-2026,Thrissur,Kerala Garments,Lily Hipster,XL,44,326,14459,Delivered
+INV261351,05-02-2026,Palakkad,Trend Retail,DreamSoft,XL,6,247,1328,Delivered
