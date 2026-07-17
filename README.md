@@ -1,4 +1,4 @@
-# 📊 ABC Fashion Inventory & Distribution Insights – Power BI Analytics Project
+# 📊 ABC Fashion 360 Analytics – PowerBI Analytics Project
 
 🔗 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiOTEwZDMzY2MtMWE1NC00MTMxLWEwNmEtZmUxZjgyZWQ5OWUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=713ad219c91de6eba782
 
