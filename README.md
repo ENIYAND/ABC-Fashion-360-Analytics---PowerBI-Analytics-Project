@@ -138,4 +138,5 @@ This project converted two disconnected operational spreadsheets (400 rows total
 
 # 📬 Contact
 
-_Add your name, LinkedIn, and email here._
+**LinkedIn:** www.linkedin.com/in/tamil-eniyan-a7116a171
+**Email:** umayalini64@gmail.com
